@@ -6,7 +6,7 @@ android {
     defaultConfig {
         applicationId "com.androidadvance.tsnackbar"
         minSdkVersion 14
-        targetSdkVersion 30
+        targetSdkVersion 33
         versionCode 200
         versionName "2.0.0"
         vectorDrawables.useSupportLibrary = true
